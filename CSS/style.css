@@ -1,6 +1,7 @@
 body{
   background: url(freshworks.png);
   background-size: 100%;
+  background-attachment:fixed;
 }
 
 
