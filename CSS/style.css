@@ -1,5 +1,5 @@
 body{
-  background-image: image(img/freshworks.png);
+  background: url(img/freshworks.png);
   background-size: 100%;
 }
 
