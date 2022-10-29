@@ -1,0 +1,131 @@
+body{
+  background-image: url(https://www.finsmes.com/wp-content/uploads/2019/11/freshworks.png);
+  background-size: 100%;
+}
+
+
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+h2{
+ font-size: 30px; 
+}
+
+.classc{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  
+
+}
+.pic{
+  width: 200px;
+  height: 200px;
+  border: 5px;
+  border-style: double;
+  border-color: darkblue;
+  margin: 13px;
+  
+}
+
+.line1{
+  margin-left: 80px;
+}
+.line2{
+  margin-left: 170px;
+}
+.line3{
+  margin-left: 170px;
+}
+.line4{
+  margin-left: 170px;
+}
+.line5{
+  margin-left: 190px;
+}
+.line6{
+  margin-left: 190px;
+}
+.line7{
+  margin-left: 80px;
+}
+.line8{
+  margin-left: 160px;
+}
+.line9{
+  margin-left: 170px;
+}
+.line10{
+  margin-left: 190px;
+}
+.line11{
+  margin-left: 190px;
+}
+.line12{
+  margin-left: 200px;
+}
+.line13{
+  margin-left: 70px;
+}
+.line14{
+  margin-left: 150px;
+}
+.line15{
+  margin-left: 170px;
+}
+.line16{
+  margin-left: 150px;
+}
+.line17{
+  margin-left: 140px;
+}
+.line18{
+  margin-left: 160px;
+}
+.line19{
+  margin-left: 80px;
+}
+.line20{
+  margin-left: 180px;
+}
+.line21{
+  margin-left: 160px;
+}
+.line22{
+  margin-left: 160px;
+}
+.line23{
+  margin-left: 160px;
+}
+.line24{
+  margin-left: 140px;
+}
+.line25{
+  margin-left: 80px;
+}
+.line26{
+  margin-left: 180px;
+}
+.line27{
+  margin-left: 180px;
+}
+.line28{
+  margin-left: 180px;
+}
+.line29{
+  margin-left: 160px;
+}
+.line30{
+  margin-left: 160px;
+}
+.line31{
+  margin-left: 90px;
+}
+.line32{
+  margin-left: 200px;
+}
+.line33{
+  margin-left: 180px;
+}
